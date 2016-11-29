@@ -1,0 +1,11 @@
+p::first-letter{
+  font-size: 300%;
+
+}
+p::first-line{
+  color: red;
+}
+
+#top-paragraph::first-line{
+  color: black;
+}
